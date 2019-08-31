@@ -1,20 +1,24 @@
 <template>
   <div id="app">
-    <video-bg :sources="['source_code.mp4']">
-      <div class="logo-container">
-        <div>
-          <img alt="PutNet logo" src="./assets/put-net-logo.svg" class="logo" />
-          <h1>Koło naukowe Politechniki Poznańskiej</h1>
-        </div>
-      </div>
-    </video-bg>
+    <Header />
     <div id="nav">
-      <router-link to="/">Home</router-link> |
+      <router-link to="/">Home</router-link>|
       <router-link to="/about">About</router-link>
     </div>
     <router-view />
   </div>
 </template>
+
+<script>
+import Header from "@/components/Header.vue";
+
+export default {
+  name: "put-net-website",
+  components: {
+    Header
+  }
+};
+</script>
 
 <style lang="scss">
 #app {
@@ -24,6 +28,7 @@
   text-align: center;
   color: #fff;
   background-color: #2c3e50;
+  padding-bottom: 20px;
 }
 #nav {
   padding: 30px;
@@ -38,15 +43,5 @@
 body {
   padding: 0;
   margin: 0;
-}
-.logo {
-  width: 100%;
-  vertical-align: middle;
-}
-.logo-container {
-  height: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 </style>
