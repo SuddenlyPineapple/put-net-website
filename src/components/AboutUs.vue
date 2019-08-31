@@ -2,7 +2,7 @@
   <v-container fluid>
     <v-row>
       <v-col cols="12">
-        <h1>About Us</h1>
+        <h1>O nas!</h1>
       </v-col>
     </v-row>
   </v-container>
