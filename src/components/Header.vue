@@ -1,5 +1,5 @@
 <template>
-  <video-bg :sources="['source_code.mp4']">
+  <video-bg :sources="['assets/source_code.mp4']">
     <div class="logo-container">
       <div>
         <img alt="PutNet logo" src="../assets/logo.svg" class="logo" />
