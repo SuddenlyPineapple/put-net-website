@@ -12,7 +12,7 @@ before_deploy:
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: "f03cd501b8ff0f26167833dc288b6ba6c68d13d5"
+  github_token: f03cd501b8ff0f26167833dc288b6ba6c68d13d5
   local_dir: dist
   on:
     branch: master
