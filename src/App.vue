@@ -1,26 +1,29 @@
 <template>
-  <div id="app">
+  <v-app id="app">
     <Header />
     <AboutUs />
+    <Prelections />
+    <Footer />
     <!-- <div id="nav">
       <router-link to="/">Home</router-link>|
       <router-link to="/about">About</router-link>
     </div>
     <router-view /> -->
-    <Footer />
-  </div>
+  </v-app>
 </template>
 
 <script>
 import Header from "@/components/Header.vue";
 import AboutUs from "@/components/AboutUs.vue";
 import Footer from "@/components/Footer.vue";
+import Prelections from "@/components/Prelections.vue";
 
 export default {
   name: "put-net-website",
   components: {
     Header,
     AboutUs,
+    Prelections,
     Footer
   }
 };
@@ -31,15 +34,13 @@ export default {
   font-family: "Monda", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #fff;
-  background-color: #2c3e50;
+  background-color: #424242;
 }
 #nav {
   padding: 30px;
   a {
     font-weight: bold;
-    color: #2c3e50;
     &.router-link-exact-active {
       color: #42b983;
     }
