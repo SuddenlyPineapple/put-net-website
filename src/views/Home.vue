@@ -2,7 +2,9 @@
   <div class="home">
     <Header />
     <AboutUs />
+    <v-divider />
     <Prelections />
+    <v-divider />
     <Awards />
     <template>
       <v-parallax :src="teamworkImage" height="100">
