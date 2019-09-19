@@ -33,7 +33,7 @@ export default {
   name: "AboutUs",
   data() {
     return {
-      conferenceImage: require("../assets/office.jpg")
+      conferenceImage: require("../assets/team.jpg")
     };
   }
 };

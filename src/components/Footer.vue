@@ -40,7 +40,12 @@
 
       <v-card-text class="white--text">
         {{ new Date().getFullYear() }} —
-        <strong>&copy;Wojciech Kasperski</strong>
+        <strong>&copy;Wojciech Kasperski </strong
+        ><a
+          href="mailto:wojciech.kasperski97@gmail.com"
+          class="font-weight-light white--text"
+          >&lt;wojciech.kasperski97@gmail.com&gt;</a
+        >
       </v-card-text>
     </v-card>
   </v-footer>

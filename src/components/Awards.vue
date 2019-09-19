@@ -6,8 +6,10 @@
         md="12"
         class="d-flex flex-column align-content-center flex-wrap px-5"
       >
-        <h1 align="center">🏆 Osiągnięcia członków naszego koła! 🏆</h1>
-        <p align="center" class="mt-5">
+        <h1 align="center" class="mb-5">
+          🏆 Osiągnięcia członków naszego koła! 🏆
+        </h1>
+        <p align="center">
           <span class="purple--text">HackYeah 2019</span> - 🥈 2 miejsce 🥈 -
           kategoria IT Secuirty - Wojciech Kasperski
         </p>
