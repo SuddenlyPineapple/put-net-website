@@ -2,8 +2,14 @@
   <v-footer dark padless>
     <v-card flat tile class="grey darken-4 white--text text-center">
       <v-card-text>
-        <v-btn v-for="icon in icons" :key="icon" class="mx-4 white--text" icon>
-          <v-icon size="24px">{{ icon }}</v-icon>
+        <v-btn
+          v-for="link in socialMedia"
+          :key="link.icon"
+          class="mx-4 white--text"
+          icon
+          :href="link.link"
+        >
+          <v-icon size="24px">{{ link.icon }}</v-icon>
         </v-btn>
       </v-card-text>
 
@@ -32,12 +38,12 @@
 export default {
   name: "Footer",
   data: () => ({
-    icons: [
-      "mdi-facebook",
-      "mdi-twitter",
-      "mdi-google-plus",
-      "mdi-linkedin",
-      "mdi-instagram"
+    socialMedia: [
+      { icon: "mdi-facebook", link: "https://www.facebook.com/put.net/" },
+      { icon: "mdi-twitter", link: "" },
+      { icon: "mdi-google-plus", link: "" },
+      { icon: "mdi-linkedin", link: "" },
+      { icon: "mdi-instagram", link: "" }
     ]
   })
 };

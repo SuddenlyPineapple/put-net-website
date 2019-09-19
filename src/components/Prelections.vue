@@ -16,19 +16,19 @@
             prelekcje:
           </p>
           <h3 class="red--text">
-            WebDev
+            WebDev 💻
             <span class="grey--text"> - poniedziałek, tydzień nieparzysty</span>
           </h3>
           <h3 class="yellow--text">
-            GameDev
+            GameDev 🎮
             <span class="grey--text"> - czwartek, tydzień nieparzysty</span>
           </h3>
           <h3 class="green--text">
-            Mobile&Iot
+            Mobile&Iot 📱
             <span class="grey--text"> - czwartek, tydzień parzysty</span>
           </h3>
           <h3 class="pink--text">
-            Innovations
+            Innovations ☁️
             <span class="grey--text"> - wtorek, tydzień parzysty</span>
           </h3>
           <p class="pt-3">

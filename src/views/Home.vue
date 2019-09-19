@@ -4,6 +4,11 @@
     <AboutUs />
     <Prelections />
     <Awards />
+    <template>
+      <v-parallax :src="teamworkImage" height="100">
+        <h1 align="center">💪 Siła! 💪</h1>
+      </v-parallax>
+    </template>
     <Footer />
   </div>
 </template>
@@ -23,6 +28,11 @@ export default {
     AboutUs,
     Prelections,
     Footer
+  },
+  data() {
+    return {
+      teamworkImage: require("@/assets/code-1839406_1920.jpg")
+    };
   }
 };
 </script>
