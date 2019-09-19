@@ -57,7 +57,7 @@ export default {
       { icon: "mdi-linkedin", link: "" },
       { icon: "mdi-instagram", link: "" }
     ],
-    ppLogo: require("../assets/Politechnika-Poznańska.png")
+    ppLogo: require("../assets/PolitechnikaPoznanska.png")
   })
 };
 </script>
