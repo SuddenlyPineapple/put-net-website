@@ -1,24 +1,22 @@
 <template>
   <div class="home">
     <Header />
-    <AboutUs />
+    <AboutUs id="onas" />
     <v-divider />
-    <Prelections />
+    <Prelections id="prelekcje" />
     <v-divider />
-    <Awards />
+    <Awards id="nagrody" />
     <template>
       <v-parallax :src="teamworkImage" height="100">
         <h1 align="center">💪 Siła! 💪</h1>
       </v-parallax>
     </template>
-    <Footer />
   </div>
 </template>
 
 <script>
 import Header from "@/components/Header.vue";
 import AboutUs from "@/components/AboutUs.vue";
-import Footer from "@/components/Footer.vue";
 import Prelections from "@/components/Prelections.vue";
 import Awards from "@/components/Awards.vue";
 
@@ -28,8 +26,7 @@ export default {
     Awards,
     Header,
     AboutUs,
-    Prelections,
-    Footer
+    Prelections
   },
   data() {
     return {

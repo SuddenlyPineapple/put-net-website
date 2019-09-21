@@ -1,17 +1,20 @@
 <template>
   <v-app id="app">
-    <!-- <div id="nav">
-      <router-link to="/">Home</router-link>|
-      <router-link to="/about">About</router-link>
-    </div> -->
+    <Toolbar />
+    <Drawer />
     <router-view />
+    <Footer />
   </v-app>
 </template>
 
 <script>
 export default {
   name: "put-net-website",
-  components: {}
+  components: {
+    Toolbar: () => import("@/components/Toolbar.vue"),
+    Drawer: () => import("@/components/Drawer.vue"),
+    Footer: () => import("@/components/Footer.vue")
+  }
 };
 </script>
 
@@ -22,18 +25,9 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   color: #fff;
   background-color: #424242;
+  height: 100%;
 }
-#nav {
-  padding: 30px;
-  a {
-    font-weight: bold;
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
-}
-body {
-  padding: 0;
-  margin: 0;
+v-navigation-drawer {
+  min-height: 200px;
 }
 </style>
