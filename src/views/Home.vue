@@ -6,6 +6,8 @@
     <Prelections id="prelekcje" />
     <v-divider />
     <Awards id="nagrody" />
+    <v-divider />
+    <Contact id="kontakt" />
     <template>
       <v-parallax :src="teamworkImage" height="100">
         <h1 align="center">💪 Siła! 💪</h1>
@@ -19,6 +21,7 @@ import Header from "@/components/Header.vue";
 import AboutUs from "@/components/AboutUs.vue";
 import Prelections from "@/components/Prelections.vue";
 import Awards from "@/components/Awards.vue";
+import Contact from "@/components/Contact.vue";
 
 export default {
   name: "home",
@@ -26,7 +29,8 @@ export default {
     Awards,
     Header,
     AboutUs,
-    Prelections
+    Prelections,
+    Contact
   },
   data() {
     return {
