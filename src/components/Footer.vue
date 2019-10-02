@@ -29,6 +29,30 @@
             contain
           />
         </v-col>
+        <v-col cols="12">
+          <v-card flat tile class="grey darken-4 text-right">
+            <div
+              class="fb-page"
+              data-href="https://www.facebook.com/put.net"
+              data-tabs=""
+              data-width=""
+              data-height=""
+              data-small-header="true"
+              data-adapt-container-width="true"
+              data-hide-cover="false"
+              data-show-facepile="false"
+            >
+              <blockquote
+                cite="https://www.facebook.com/put.net"
+                class="fb-xfbml-parse-ignore"
+              >
+                <a href="https://www.facebook.com/put.net"
+                  >Grupa .NET Politechnika Poznańska</a
+                >
+              </blockquote>
+            </div>
+          </v-card>
+        </v-col>
       </v-row>
 
       <v-divider />
