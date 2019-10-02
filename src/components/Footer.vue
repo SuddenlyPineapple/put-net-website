@@ -16,14 +16,9 @@
       <v-row>
         <v-col cols="12" md="9" class="px-5">
           <v-card-text class="white--text pt-0 text-left"
-            >Phasellus feugiat arcu sapien, et iaculis ipsum elementum sit amet.
-            Mauris cursus commodo interdum. Praesent ut risus eget metus luctus
-            accumsan id ultrices nunc. Sed at orci sed massa consectetur
-            dignissim a sit amet dui. Duis commodo vitae velit et faucibus.
-            Morbi vehicula lacinia malesuada. Nulla placerat augue vel ipsum
-            ultrices, cursus iaculis dui sollicitudin. Vestibulum eu ipsum vel
-            diam elementum tempor vel ut orci. Orci varius natoque penatibus et
-            magnis dis parturient montes, nascetur ridiculus mus.</v-card-text
+            >Koło naukowe PUT.NET na Wydziale Informatyki działa od 2004 roku, a
+            na Wydziale Elektrycznym od roku 2005. Serdecznie zapraszamy na
+            nasze spotkania, eventy i prelekcje!</v-card-text
           >
         </v-col>
         <v-col cols="12" md="3" class="max-height pt-0">
