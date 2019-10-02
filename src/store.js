@@ -26,6 +26,10 @@ export default new Vuex.Store({
       {
         text: "Kontakt",
         to: "#kontakt"
+      },
+      {
+        text: "FAQ",
+        to: "#faq"
       }
     ]
   },

@@ -1,0 +1,23 @@
+[
+    {
+      "question": "Czy trzeba chodzić cyklicznie na nasze spotkania?",
+      "answer":
+        "Oczywiście, że nie. Możesz chodzić tylko na wybrane spotkania, a i tak zdobędziesz dużo wiedzy i poznasz masę ciekawych technologii i ciekawych osobistości 😉"
+    },
+    { 
+        "question": "Czy jeśli nie studiuję na Politechnice też mogę przyjść?", 
+        "answer": "Oczywiście, że tak. Zapraszamy wszystkich, również osoby spoza Politechniki." 
+    },
+    { 
+        "question": "Jak do nas dołączyć?", 
+        "answer": "Tutaj niestety nie ma jednoznaczej odpowiedzi, sposoby rekrutacji są różne. Naprościej mówiąc, wystarczy się udzielać i wnosić coś w życie koła. Może to np. być prelekcja przeprowadzona przez Ciebie na wybrany przez Ciebie temat, jak również pomoc przy organizacji innych event'ów. Ale nie zrażaj się za szybko. Czasem wystarczy niewiele, a dołączyć do nas warto 😀 Zapytaj bezpośrednio członków dlaczego 😉" 
+    },
+    { 
+        "question": "Czy jesteśmy otwarci na współpracę?", 
+        "answer": "Oczywiście, że tak. Prelekcje prowadzą u nas różne osobistości, z różnych części świata jak i różnych firm. W kwestiach współpracy najlepiej pytać nas na FB bądź drogą mailową (patrz sekcja kontakt)." 
+    },
+    { 
+        "question": "Czy nasze kursy/prelekcje są płatne?", 
+        "answer": "Prelekcje są w pełni darmowe. Pizza, która pojawia się czasem na naszych spotkaniach też 🍕" 
+    }
+]

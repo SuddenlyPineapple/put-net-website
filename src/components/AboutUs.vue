@@ -19,7 +19,7 @@
             odnoszą sukcesy na wysokich szczeblach. Staramy się na bieżąco
             zdobywać wiedzę by następnie przekazywać ją uczniom, studentom i
             pasjonatom. Uczestniczymy też w wszelkiego rodzaju konkursach
-            programistycznych z których duzej ilości wychodzimy zwycięzko.
+            programistycznych, hackatonach z których dużą ilość wygyrwamy.
           </p>
         </div>
       </v-col>
