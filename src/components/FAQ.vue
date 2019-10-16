@@ -7,7 +7,7 @@
         class="d-flex flex-column align-content-center flex-wrap px-5"
       >
         <h1 align="center" class="mb-5">
-          🤔 Frequenlty Asekd Questions 🤔
+          🤔 Frequenlty Asked Questions 🤔
         </h1>
         <v-expansion-panels inset dark>
           <v-expansion-panel v-for="(item, i) in questions" :key="i">
