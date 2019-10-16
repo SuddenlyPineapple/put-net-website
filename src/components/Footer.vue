@@ -75,11 +75,7 @@ export default {
   name: "Footer",
   data: () => ({
     socialMedia: [
-      { icon: "mdi-facebook", link: "https://www.facebook.com/put.net/" },
-      { icon: "mdi-twitter", link: "" },
-      { icon: "mdi-google-plus", link: "" },
-      { icon: "mdi-linkedin", link: "" },
-      { icon: "mdi-instagram", link: "" }
+      { icon: "mdi-facebook", link: "https://www.facebook.com/put.net/" }
     ],
     ppLogo: require("../assets/PolitechnikaPoznanska.png")
   })

@@ -9,17 +9,17 @@
         <div class="flex-column">
           <h1 align="center">O nas!</h1>
           <p class="text-right">
-            Grupa PUT.NET to studenckie koło naukowe działające na Wydziale
+            Grupa PUT.NET to studenckie Koło naukowe działające na Wydziale
             Informatyki oraz Wydziale Elektrycznym Politechniki Poznańskiej.
-            Tworzą ją osoby pasjonujące się różnymi technologiami. Ponadto
-            interesują nas też inne tematy powiązane z sektorem IT i najnowszymi
-            technologiami oraz przedsiębiorczością w start-up’ach. Organizujemy
-            otwarte prelekcje i warsztaty, w trakcie których uczestnicy nabywają
-            wiedzy z profesjonalnego źródła. Projekty realizowane przez nas
-            odnoszą sukcesy na wysokich szczeblach. Staramy się na bieżąco
-            zdobywać wiedzę by następnie przekazywać ją uczniom, studentom i
-            pasjonatom. Uczestniczymy też w wszelkiego rodzaju konkursach
-            programistycznych, hackatonach z których dużą ilość wygyrwamy.
+            Tworzą je osoby pasjonujące się różnymi technologiami. Ponadto
+            interesują nas też inne zagadnienia powiązane z sektorem IT i
+            najnowszymi technologiami oraz przedsiębiorczością w start-up’ach.
+            Organizujemy otwarte prelekcje i warsztaty, w trakcie których
+            uczestnicy dzielą się wiedzą i doświadczeniem. Staramy się na
+            bieżąco zdobywać wiedzę by następnie przekazywać ją uczniom,
+            studentom i pasjonatom. Projekty realizowane przez nas odnoszą
+            sukcesy w konkursach krajowych i międzynarodowych. Wygrywamy też
+            często hackatony jak i zapraszamy ekspertów z IT na nasze spotkania.
           </p>
         </div>
       </v-col>

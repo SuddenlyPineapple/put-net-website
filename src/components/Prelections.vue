@@ -12,7 +12,7 @@
         <div class="flex-column">
           <h1>Prelekcje</h1>
           <p>
-            Nasze koło dzieli się na cztery sekcje, które prowadzą niezależne
+            Nasze Koło dzieli się na cztery sekcje, które prowadzą niezależne
             prelekcje:
           </p>
           <h3 class="red--text">
@@ -32,7 +32,8 @@
             <span class="grey--text"> - wtorek, tydzień parzysty</span>
           </h3>
           <p class="pt-3">
-            Wszystkich zainteresowanych serdecznie zapraszamy 💪
+            Wszystkich zainteresowanych serdecznie zapraszamy 💪 <br />
+            (więcej infromacji znajdziesz na naszym FB)
           </p>
         </div>
       </v-col>
