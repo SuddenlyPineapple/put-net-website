@@ -1,5 +1,6 @@
 # put-net-website
-[![Build Status](https://travis-ci.org/SuddenlyPineapple/put-net-website.svg?branch=master)](https://travis-ci.org/SuddenlyPineapple/put-net-website.svg?branch=master) 
+[![Build Status](https://travis-ci.org/SuddenlyPineapple/put-net-website.svg?branch=master)](https://travis-ci.org/SuddenlyPineapple/put-net-website.svg?branch=master)
+[![Build Status](https://img.shields.io/github/license/SuddenlyPineapple/put-net-website)](https://img.shields.io/github/license/SuddenlyPineapple/put-net-website)
 
 ## Project setup
 ```
